@@ -1,5 +1,5 @@
 {
-    "name": "kaayru/nodejs-installer",
+    "name": "mouf/nodejs-installer",
     "type": "composer-plugin",
     "description": "An installer package that let's you install NodeJS and NPM as a Composer dependency.",
     "keywords": ["installer", "nodejs", "npm"],
