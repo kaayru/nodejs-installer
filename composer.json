@@ -1,11 +1,11 @@
 {
-    "name": "mouf/nodejs-installer",
+    "name": "kaayru/nodejs-installer",
     "type": "composer-plugin",
     "description": "An installer package that let's you install NodeJS and NPM as a Composer dependency.",
     "keywords": ["installer", "nodejs", "npm"],
     "homepage": "http://mouf-php.com/packages/mouf/nodejs-installer",
     "license": "MIT",
-    "version": "1.1",
+    "version": "1.2",
     "authors": [
         {
             "name": "David Négrier",
